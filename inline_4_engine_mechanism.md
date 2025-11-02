@@ -118,28 +118,3 @@ ENGINE ASSEMBLY.CATProduct
 | 3.4 | ROD CAP.CATPart | 4 |
 
 > Note: Fasteners, bearings, rings, gaskets, and ancillaries are out of scope for this iteration.
-
----
-
-## 7) Validation & next steps
-- **Sanity checks**: journal sizes vs. rod/bearing bores; piston‑to‑deck clearance at TDC; skirt‑to‑counterweight clearance at BDC.  
-- **Next steps**: add **cylinder head**, **timing drive**, **oil pump**, **balance shafts**, and **fasteners** with torque specs.  
-- Prepare an **exploded view** and **animation** for presentation.
-
----
-
-## 8) Screens & diagrams
-- `/docs/assembly_overview.png` – inline‑4 assembly hero shot.  
-- `/docs/inline4_engine_tree_v3_spacing.png` – component/subcomponent tree (readable).  
-- `/docs/inline4_engine_tree_v3_spacing.pdf` – vector version for print.
-
----
-
-## 9) License & attribution
-Models are educational/demonstration only. If you reuse, please credit **Abdelkarim Essadki** and reference this README.
-
----
-
-## 10) Contact
-For feedback or collaboration: *add your email / LinkedIn link here*.
-
